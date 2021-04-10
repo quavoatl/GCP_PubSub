@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/modules.xml
+/.idea.GCP_PubSub.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\seantal\source\repos\GCP-Pub-Sub\GCP_PubSub\.idea\.idea.GCP_PubSub\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

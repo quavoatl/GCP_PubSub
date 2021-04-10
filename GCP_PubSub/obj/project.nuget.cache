@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGNijxRr0wRDguVWePdka5EtX+rGMAlg1h53vUdOr8sTtsLZb3D2kn0Nu81phKL5QW50BOVCedMAEfMEuPF7qA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seantal\\source\\repos\\GCP-Pub-Sub\\GCP_PubSub\\GCP_PubSub\\GCP_PubSub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seantal\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\google.apis.storage.v1\\1.49.0.2151\\google.apis.storage.v1.1.49.0.2151.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\google.cloud.storage.v1\\3.4.0\\google.cloud.storage.v1.3.4.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\seantal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
